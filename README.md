@@ -7,9 +7,9 @@ Make sure that you have the following:
 -  install libraries required for each project (see include)
 
 ## Projects:
--  <a href="https://github.com/DeepKariaX/Network-Scanner-Flask/blob/main/Manual/Network_Scanner_Manual.pdf" class="image fit">Chi Square</a>
--  <a href="https://github.com/DeepKariaX/Network-Scanner-Flask/blob/main/Manual/Network_Scanner_Manual.pdf" class="image fit">K Means</a>
--  <a href="https://github.com/DeepKariaX/Network-Scanner-Flask/blob/main/Manual/Network_Scanner_Manual.pdf" class="image fit">Sentiment Analysis</a>
--  <a href="https://github.com/DeepKariaX/Network-Scanner-Flask/blob/main/Manual/Network_Scanner_Manual.pdf" class="image fit">Simple Regression</a>
--  <a href="https://github.com/DeepKariaX/Network-Scanner-Flask/blob/main/Manual/Network_Scanner_Manual.pdf" class="image fit">Simple Regression Model</a>
--  <a href="https://github.com/DeepKariaX/Network-Scanner-Flask/blob/main/Manual/Network_Scanner_Manual.pdf" class="image fit">T Test</a>
+-  <a href="https://github.com/DeepKariaX/R-Projects/tree/main/Chi%20Square">Chi Square</a>
+-  <a href="https://github.com/DeepKariaX/R-Projects/tree/main/K%20Means" class="image fit">K Means</a>
+-  <a href="https://github.com/DeepKariaX/R-Projects/tree/main/Sentiment%20Analysis">Sentiment Analysis</a>
+-  <a href="https://github.com/DeepKariaX/R-Projects/tree/main/Simple%20Regression">Simple Regression</a>
+-  <a href="https://github.com/DeepKariaX/R-Projects/tree/main/Simple%20Regression%20Model">Simple Regression Model</a>
+-  <a href="https://github.com/DeepKariaX/R-Projects/tree/main/T-Test">T Test</a>
