@@ -24,6 +24,14 @@
 
 Various R Projects are made using different algorithms.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Built With
+
+* [R](https://www.r-project.org/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Getting Started
 
 ### Prerequisites
