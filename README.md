@@ -22,12 +22,7 @@
 
 ## About The Project
 
-![Product Name Screen Shot][product-screenshot]
-
 Various R Projects are made using different algorithms.
-
-<!-- # R Projects
-Various R Projects are made using different algorithms. -->
 
 ## Getting Started
 
@@ -69,5 +64,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 [language-shield]: https://img.shields.io/github/languages/count/DeepKariaX/R-Projects?style=for-the-badge
 [language-url]: #
-
-[product-screenshot]: Media/Spam_Classifier_Home.png
