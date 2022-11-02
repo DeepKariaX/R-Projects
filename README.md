@@ -52,12 +52,6 @@ Open R Studio & run the project.
 -  <a href="https://github.com/DeepKariaX/R-Projects/tree/main/Simple%20Regression%20Model">Simple Regression Model</a>
 -  <a href="https://github.com/DeepKariaX/R-Projects/tree/main/T-Test">T Test</a>
 
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 [contri-shield]: https://img.shields.io/github/contributors/DeepKariaX/R-Projects?style=for-the-badge
 [contri-url]: #
 
