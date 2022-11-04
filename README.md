@@ -56,7 +56,7 @@ Open R Studio & run the project.
 [contri-url]: #
 
 [license-shield]: https://img.shields.io/github/license/DeepKariaX/R-Projects?style=for-the-badge
-[license-url]: https://github.com/DeepKariaX/Spam-Classification-Flask/blob/main/LICENSE.txt
+[license-url]: https://github.com/DeepKariaX/R-Projects/blob/main/LICENSE.txt
 
 [size-shield]: https://img.shields.io/github/repo-size/DeepKariaX/R-Projects?style=for-the-badge
 [size-url]: #
